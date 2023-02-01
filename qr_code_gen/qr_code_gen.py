@@ -1,4 +1,6 @@
+#  pip install qr [for qr code gen]
 import qrcode as qr
+# pip install pillow [for image]
 from PIL import Image
 
 
